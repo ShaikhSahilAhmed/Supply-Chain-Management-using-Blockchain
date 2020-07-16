@@ -1,1 +1,3 @@
-# Blockchain
+# Supply Chain Management using Blockchain
+
+Supply chain management is the management of the transfer of goods and services and includes all processes that generate raw materials into finalized products. During older days, the supply chain management doesn't have any security and there was no trust between manufacturers and other stakeholders that could provide security. So the emerging technology of blockchain helps to overcome most of the problems in the supply chain. In our work, we have provided the trust as well as security among suppliers and receivers. The transactions are well secured and are immutable. We can also trace the item from whom it was supplied to which customer.
